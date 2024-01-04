@@ -1,3 +1,7 @@
+## Version 1.0.2
+* Updated dependencies
+* Ordered Server mods into alphabetical order
+
 ## Version 1.0.1
 * Removed Client Side Mods I left in by accident. I removed some non-QoL mods that I didn't want to force others to have.<br>
 ~~sunnobunno-YippeeMod~~<br>
