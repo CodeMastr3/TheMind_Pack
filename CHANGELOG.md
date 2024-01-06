@@ -1,3 +1,7 @@
+## Version 1.0.3
+* Updated dependencies
+* Updated Modpack description from "This is easy to download ModPack for the bois" to "This is an easy to download ModPack for the bois"
+
 ## Version 1.0.2
 * Updated dependencies
 * Ordered Server mods into alphabetical order
