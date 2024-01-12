@@ -1,3 +1,7 @@
+## Version 1.0.4
+* Added Backrooms-Backrooms and Gemumoddo-BadAssCompany
+* Updated dependencies
+
 ## Version 1.0.3
 * Updated dependencies
 * Updated Modpack description from "This is easy to download ModPack for the bois" to "This is an easy to download ModPack for the bois"
