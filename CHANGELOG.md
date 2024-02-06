@@ -1,3 +1,7 @@
+## Version 1.0.5
+* Added TwinDimensionalProductions-CoilHeadStare-1.0.6
+* Updated dependencies
+
 ## Version 1.0.4
 * Added Backrooms-Backrooms and Gemumoddo-BadAssCompany
 * Updated dependencies
